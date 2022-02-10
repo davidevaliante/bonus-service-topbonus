@@ -11,22 +11,22 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  streamerId: 23,
-  streamerName: "topbonus",
+  streamerId: 27,
+  streamerName: "boom",
   api: "https://compare.topadsservices.com",
-  primaryColor: "#db2727",
-  secondaryColor: "#db2727",
+  primaryColor: "#278adb",
+  secondaryColor: "#278adb",
   fontString: "",
   font: `'Roboto', sans-serif`,
   geoApi: "https://api.ipgeolocation.io/ipgeo",
 };
 
 export let configuration: Config = {
-  streamerId: 23,
-  streamerName: "topbonus",
+  streamerId: 27,
+  streamerName: "boom",
   api: "https://compare.topadsservices.com",
-  primaryColor: "#db2727",
-  secondaryColor: "#db2727",
+  primaryColor: "#278adb",
+  secondaryColor: "#278adb",
   fontString: "",
   font: `'Roboto', sans-serif`,
   geoApi: "https://api.ipgeolocation.io/ipgeo",
